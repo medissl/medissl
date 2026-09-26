@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Medi 👋
 
-<!--
-**medissl/medissl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at BINUS University, specializing in Interactive Multimedia.
 
-Here are some ideas to get you started:
+I like building things involving games, interactive experiences, UI/UX, web development, and occasionally random projects just because they sound fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm exploring
+
+🎮 Developing Games & Interactive Media
+🎨 Designing Intuitive UI/UX & Digital Art
+🌐 Building Web Applications & Small Software Projects
+☁️ Deploying to the Cloud
+🧩 Experimenting with Creative Coding & AI Projects
+
+## Tech
+
+Languages: Python • C# • Java • JavaScript • C++ • SQL • HTML • CSS
+
+Tools & Frameworks: Unity • Godot • Git • GitHub • MySQL • Figma
+
+Creative Tools: Blender • Clip Studio Paint • FL Studio • Ren'Py • Aseprite
+
+## Currently
+
+Building small projects and experiments while expanding my portfolio.
+
+Open to project commissions and part-time opportunities, and currently preparing for internship opportunities.
+
+> I like creating and developing things filled with love, especially the small projects that begin with a random idea and suddenly turn into something real.
