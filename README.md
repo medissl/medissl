@@ -7,9 +7,13 @@ I like building things involving games, interactive experiences, UI/UX, web deve
 ## What I'm exploring
 
 🎮 Developing Games & Interactive Media
+
 🎨 Designing Intuitive UI/UX & Digital Art
+
 🌐 Building Web Applications & Small Software Projects
+
 ☁️ Deploying to the Cloud
+
 🧩 Experimenting with Creative Coding & AI Projects
 
 ## Tech
