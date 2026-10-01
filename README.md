@@ -20,7 +20,7 @@ I like building things involving games, interactive experiences, UI/UX, web deve
 
 Languages: Python • C# • Java • JavaScript • C++ • SQL • HTML • CSS
 
-Tools & Frameworks: Unity • Godot • Git • GitHub • MySQL • Figma
+Tools & Frameworks: Unity • Godot • Git • GitHub • MySQL • Figma • Cursor • Vercel • Supabase
 
 Creative Tools: Blender • Clip Studio Paint • FL Studio • Ren'Py • Aseprite
 
